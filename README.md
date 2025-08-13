@@ -7,9 +7,9 @@ A simple Pomodoro timer that lives in your macOS menu bar.
 - Rumps
 - Python 3.10+
 
-## Why I'm working on this
+## About the project
 
-Staying focused shouldn’t be complicated. That’s why I’m building this Pomodoro timer as a simple, distraction-free tool that just works, with no accounts, no subscriptions, and no need to touch your phone. It’s based on my own needs and built to be something I use every day.
+Focus Bar was built as a personal productivity tool to keep work sessions structured and distraction-free. It runs entirely in the menu bar, requires no sign-in, and has no unnecessary features. By eliminating the need to interact with a phone, it reduces potential distractions and helps maintain focus. The goal was to create something minimal, fast, and reliable that could be used daily without configuration.
 
 
 ## Attribution
